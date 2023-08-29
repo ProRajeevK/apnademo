@@ -1,4 +1,4 @@
 # apnademo
 This is my first git repository.
 <br>
-Author - RajeevK
+Author - Rajeev Khatri
